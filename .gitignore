@@ -1,1 +1,7 @@
-/target/
+# Maven Ignore
+target
+
+# Eclipse ignore
+.classpath
+.project
+.settings/
