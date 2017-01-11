@@ -5,3 +5,7 @@ target
 .classpath
 .project
 .settings/
+
+# IntellijIDEA
+.idea
+java-core.iml
