@@ -6,6 +6,14 @@ target
 .project
 .settings/
 
-# IntellijIDEA
+# IntelliJ
 .idea
+.idea/*
 java-core.iml
+*.iml
+java-core.iml
+.idea
+.idea/*
+java-core.iml
+.settings
+.settings*/
