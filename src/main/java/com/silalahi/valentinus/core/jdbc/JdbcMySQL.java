@@ -36,5 +36,11 @@ public class JdbcMySQL {
 			e.printStackTrace();
 			return;
 		}
+		
+		if (connection != null) {
+			System.out.println("you made it, take control your db");
+		}else {
+			System.out.println("Failed to make connection");
+		}
 	}
 }
